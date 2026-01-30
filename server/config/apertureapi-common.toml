@@ -1,0 +1,22 @@
+
+[cutscene]
+	#If true, players are invulnerable during camera cutscenes.
+	invulnerableDuringCutscene = true
+	#Number of ticks players remain invulnerable after a cutscene ends.
+	#Range: 0 ~ 12000
+	postInvulnerabilityTicks = 40
+
+	[cutscene.fade]
+		#Ticks to fade from gameplay to black when a cutscene starts.
+		#Range: 0 ~ 200
+		enterFadeOutTicks = 10
+		#Ticks to fade from black into the cutscene after start.
+		#Range: 0 ~ 200
+		enterFadeInTicks = 10
+		#Ticks to fade from cutscene to black when a cutscene ends.
+		#Range: 0 ~ 200
+		exitFadeOutTicks = 10
+		#Ticks to fade from black back to gameplay after cutscene ends.
+		#Range: 0 ~ 200
+		exitFadeInTicks = 10
+

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project specific
+conversation_history.json
+server/logs/
+output/
+.vscode/
+.idea/
+
+# Minecraft related
+server/world/
+server/banned-ips.json
+server/banned-players.json
+server/ops.json
+server/whitelist.json
+server/usercache.json
