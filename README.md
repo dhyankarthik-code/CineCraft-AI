@@ -5,6 +5,7 @@ AI-powered automation for **Blockbuster Studio (BBS)** mod in Minecraft. Create 
 ![Minecraft Animation](https://img.shields.io/badge/Minecraft-1.21-green?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+[![Documentation](https://img.shields.io/badge/docs-mintlify-0f172a?style=flat-square)](https://mintlify.com/docs)
 
 ## ✨ Features
 

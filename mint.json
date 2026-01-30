@@ -1,0 +1,53 @@
+{
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "CineCraft AI",
+    "logo": {
+        "light": "/logo/light.png",
+        "dark": "/logo/dark.png"
+    },
+    "favicon": "/favicon.png",
+    "colors": {
+        "primary": "#60A5FA",
+        "light": "#93C5FD",
+        "dark": "#2563EB",
+        "anchors": "#3B82F6"
+    },
+    "topbarLinks": [
+        {
+            "name": "Support",
+            "url": "mailto:support@example.com"
+        }
+    ],
+    "topbarCtaButton": {
+        "name": "GitHub",
+        "url": "https://github.com/dhyankarthik-code/CineCraft-AI"
+    },
+    "primaryTab": {
+        "name": "Home"
+    },
+    "tabs": [
+        {
+            "name": "API Reference",
+            "url": "api-reference"
+        }
+    ],
+    "anchors": [
+        {
+            "name": "Community",
+            "icon": "discord",
+            "url": "https://discord.gg/example"
+        }
+    ],
+    "navigation": [
+        {
+            "group": "Get Started",
+            "pages": [
+                "docs/introduction"
+            ]
+        }
+    ],
+    "footerSocials": {
+        "x": "https://x.com/dhyankarthik",
+        "github": "https://github.com/dhyankarthik-code/CineCraft-AI"
+    }
+}
